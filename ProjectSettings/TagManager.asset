@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Archer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Buildings
+  - Units
+  - 'Selectable '
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3840649351
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Buildings
+    uniqueID: 2512088361
+    locked: 0
+  - name: Units
+    uniqueID: 3562961511
+    locked: 0
+  - name: UI
+    uniqueID: 373991595
+    locked: 0
